@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee963954-46d1-4b7e-ab72-afb4b5f4b388" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/album_202110.html" beforeDir="false" afterPath="$PROJECT_DIR$/album_202110.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/todo.html" beforeDir="false" afterPath="$PROJECT_DIR$/todo.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -30,9 +26,10 @@
       <file leaf-file-name="todo.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/todo.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="150" column="132" selection-start-line="150" selection-start-column="132" selection-end-line="150" selection-end-column="132" />
+            <state relative-caret-position="326">
+              <caret line="510" lean-forward="true" selection-start-line="510" selection-end-line="510" />
               <folding>
+                <element signature="n#el-collapse-item#0;n#el-collapse#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#style#0;n#div#0;n#el-card#0;n#el-col#0;n#el-row#0;n#div#0;n#el-collapse-item#0;n#el-collapse#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#el-card#0;n#el-col#0;n#el-row#0;n#div#0;n#el-collapse-item#0;n#el-collapse#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#2;n#el-card#0;n#el-col#0;n#el-row#0;n#div#0;n#el-collapse-item#0;n#el-collapse#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -178,7 +175,7 @@
       <path value="$PROJECT_DIR$/element-ui/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-9" />
     <option name="y" value="-9" />
     <option name="width" value="1938" />
@@ -301,12 +298,12 @@
       <workItem from="1650614740321" duration="7732000" />
       <workItem from="1650767475542" duration="1144000" />
       <workItem from="1650771424564" duration="3783000" />
-      <workItem from="1650787795197" duration="3156000" />
+      <workItem from="1650787795197" duration="4305000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68627000" />
+    <option name="totallyTimeSpent" value="69776000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
@@ -366,6 +363,7 @@
         <state relative-caret-position="2530">
           <caret line="115" column="71" selection-start-line="115" selection-start-column="71" selection-end-line="115" selection-end-column="71" />
           <folding>
+            <element signature="n#el-collapse-item#0;n#el-collapse#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#div#0;n#el-card#0;n#el-col#0;n#el-row#0;n#div#0;n#el-collapse-item#0;n#el-collapse#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#el-card#0;n#el-col#0;n#el-row#0;n#div#0;n#el-collapse-item#0;n#el-collapse#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#el-card#0;n#el-col#0;n#el-row#0;n#div#0;n#el-collapse-item#0;n#el-collapse#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -460,6 +458,7 @@
         <state relative-caret-position="2090">
           <caret line="95" selection-start-line="95" selection-end-line="95" />
           <folding>
+            <element signature="n#el-collapse-item#0;n#el-collapse#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#div#0;n#el-card#0;n#el-col#0;n#el-row#0;n#div#0;n#el-collapse-item#0;n#el-collapse#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#el-card#0;n#el-col#0;n#el-row#0;n#div#0;n#el-collapse-item#0;n#el-collapse#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#el-card#0;n#el-col#0;n#el-row#0;n#div#0;n#el-collapse-item#0;n#el-collapse#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -817,9 +816,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/todo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="150" column="132" selection-start-line="150" selection-start-column="132" selection-end-line="150" selection-end-column="132" />
+        <state relative-caret-position="326">
+          <caret line="510" lean-forward="true" selection-start-line="510" selection-end-line="510" />
           <folding>
+            <element signature="n#el-collapse-item#0;n#el-collapse#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#div#0;n#el-card#0;n#el-col#0;n#el-row#0;n#div#0;n#el-collapse-item#0;n#el-collapse#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#el-card#0;n#el-col#0;n#el-row#0;n#div#0;n#el-collapse-item#0;n#el-collapse#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#el-card#0;n#el-col#0;n#el-row#0;n#div#0;n#el-collapse-item#0;n#el-collapse#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
