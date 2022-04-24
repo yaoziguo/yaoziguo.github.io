@@ -28,11 +28,11 @@
     <script src="js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
 
     <style>
-        h1 {font-family: '等线', sans-serif}
-        h2 {font-family: '等线', sans-serif}
-        h3 {font-family: '等线', sans-serif}
-        h4 {font-family: '等线', sans-serif; color: #3c3c3c}
-        p {font-family: '等线', sans-serif; font-size: 15px}
+        h1 {font-family: '华文楷体', sans-serif; font-size: 60px}
+        h2 {font-family: '华文楷体', sans-serif; font-size: 50px}
+        h3 {font-family: '华文楷体', sans-serif; font-size: 40px}
+        h4 {font-family: '华文楷体', sans-serif; font-size: 30px; color: #3c3c3c}
+        p {font-family: '华文楷体', sans-serif; font-size: 30px}
     </style>
 </head>
 
@@ -69,14 +69,31 @@
 
 <div id="carousel-header" class="carousel slide" data-ride="carousel" data-interval="8000">
 
+    <div class="carousel-inner">
+        <div class="camera-icon hidden-sm hidden-xs">
+            <div class="circle">
+                <div class="hexagon">
+                    <i class="fa  fa-camera"></i>
+                </div>
+            </div>
+        </div>
+
+        <div class="item active">
+            <img src="img/slide1.jpg" alt="">
+        </div>
+
+        <div class="item">
+            <img src="img/slide2.jpg" alt="">
+        </div>
+    </div>
+
     <!-- 第二行 纪念日 -->
-    <div id="time" class="content-block-temp content-block-cyan">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-6 col-md-offset-3 content-block-header-center">
-                    <h2>幺幺橘子 💕 叮当果果</h2>
-                    <div class="timer">
-                        <h4>在一起 <b id="d"></b> 天 <b id="h"></b> 小时 <b id="m"></b> 分钟 <b id="s"></b> 秒 啦</h4>
+                <div>
+                    <div class="col-md-6 col-md-offset-3 content-block-header-center">
+                        <h2>幺幺橘子 💕 叮当果果</h2>
+                        <div class="timer">
+                            <h4>在一起 <b id="d"></b> 天 <b id="h"></b> 小时 <b id="m"></b> 分钟 <b id="s"></b> 秒 啦</h4>
+                        </div>
                     </div>
                 </div>
                 <script language="javascript">
@@ -103,9 +120,6 @@
                     }
                     timer();
                 </script>
-            </div>
-        </div>
-    </div>
 
     <!-- Wrapper for slides -->
     <div class="carousel-inner">

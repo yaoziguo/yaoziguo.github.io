@@ -230,6 +230,11 @@ content-block
     width:100%;
 }
 
+.content-title-block {
+    padding: 20px 20px;
+    width:100%;
+}
+
 .content-block-header-center {
     text-align: center;
 }
