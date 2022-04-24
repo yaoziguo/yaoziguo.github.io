@@ -366,6 +366,11 @@ blog
     font-size: 25px;
 }
 
+.card-word-time {
+    font-family: 微软雅黑;
+    font-size: 20px;
+}
+
 .card-word-1 {
     line-height: 10px;
     font-family: '等线', sans-serif;
